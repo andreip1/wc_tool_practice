@@ -1,1 +1,3 @@
-# wc_tool_practice
+# WC Tool
+
+Inspired by https://codingchallenges.fyi/challenges/challenge-wc
